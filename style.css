@@ -1,0 +1,50 @@
+body{
+    color: #626262;
+
+    font-family: 'Playfair Display', serif;
+   font-style: normal;
+   font-weight: 400;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a :hover, :focus{
+    font-size: 14px;
+line-height: 19px;
+
+color: #03A9F4;
+
+}
+.nav-list a{
+font-size: 14px;
+line-height: 19px;
+
+color: #7D7D7D;
+}
+.category {
+    font-family: 'Ubuntu';
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #B4AD9E;
+}
+.h2{
+font-size: 30px;
+line-height: 40px;
+}
+.p{
+    font-size: 14px;
+    line-height: 19px;
+    }
+.load{
+    font-size: 14px;
+line-height: 19px;
+}
+.load border-style{
+    border: 1px solid #626262;
+}
+
