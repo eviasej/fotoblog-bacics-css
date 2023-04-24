@@ -44,7 +44,6 @@ line-height: 40px;
     font-size: 14px;
 line-height: 19px;
 }
-.load border-style{
-    border: 1px solid #626262;
+button.load{
+    border-style: 1px solid #626262;
 }
-
